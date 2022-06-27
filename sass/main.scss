@@ -1,0 +1,43 @@
+@import "abstracts/functions";
+@import "abstracts/mixins";
+@import "abstracts/variables";
+
+@import "base/base";
+@import "base/animation";
+@import "base/typography";
+@import "base/utilities";
+
+@import "components/button";
+@import "components/card";
+@import "components/composition";
+@import "components/feature-box";
+@import "components/story";
+@import "components/form";
+
+@import "layout/header";
+@import "layout/grid";
+@import "layout/navigation";
+@import "layout/footer";
+
+@import "pages/home";
+
+/*
+Colors:
+light green: #7ed56f
+Medium green: #55c57a -primary-light
+Dark green: #28b485     -primary-dark
+
+light grey: #f7f7f7;
+Dark grey: #fff;
+Black #000;
+*/
+
+
+
+/*.footer{
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: -1; 
+}
+*/
